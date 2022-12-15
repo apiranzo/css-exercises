@@ -1,0 +1,15 @@
+.first-btn{
+    background-color: black;
+
+    color:white;
+}
+
+.second-btn{
+    background-color: rgb(255, 238, 2);
+}
+
+.first-btn,
+.second-btn{
+    font-family: Helvetica,'Times New Roman', sans-serif;
+    font-size: 28px;
+}
